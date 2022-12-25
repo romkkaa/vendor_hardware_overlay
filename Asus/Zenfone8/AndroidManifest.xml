@@ -4,7 +4,7 @@
         android:versionName="1.0">
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="ro.product.vendor.device"
-                android:requiredSystemPropertyValue="ASUS_AI2202_B"
+                android:requiredSystemPropertyValue="ASUS_AI2202"
 		android:priority="453"
 		android:isStatic="true" />
 </manifest>
